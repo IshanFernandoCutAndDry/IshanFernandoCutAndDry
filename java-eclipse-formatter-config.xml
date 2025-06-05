@@ -11,7 +11,7 @@
 		<setting id="org.eclipse.jdt.core.formatter.indent_body_declarations_compare_to_enum_constant_header" value="true"/>
 		<setting id="org.eclipse.jdt.core.formatter.indent_body_declarations_compare_to_annotation_declaration_header" value="true"/>
 		<setting id="org.eclipse.jdt.core.formatter.indent_body_declarations_compare_to_record_header" value="true"/>
-		<setting id="org.eclipse.jdt.core.formatter.indent_statements_compare_to_body" value="true"/>
+		<setting id="org.eclipse.jdt.core.formatter.indent_statements_compare_to_body" value="false"/>
 		<setting id="org.eclipse.jdt.core.formatter.indent_statements_compare_to_block" value="true"/>
 		<setting id="org.eclipse.jdt.core.formatter.indent_switchstatements_compare_to_switch" value="true"/>
 		<setting id="org.eclipse.jdt.core.formatter.indent_switchstatements_compare_to_cases" value="true"/>
